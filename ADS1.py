@@ -10,7 +10,7 @@ import pandas as pd
 # Importing numpy to read statistical properties
 import numpy as np
 # Importing matplotlib package for data plotting and visualization
-import matplotlib.pyplot as plp
+import matplotlib.pyplot as plt
 # Importing scipy functions to calculate skewness and kurtosis
 import scipy.stats as st
 
